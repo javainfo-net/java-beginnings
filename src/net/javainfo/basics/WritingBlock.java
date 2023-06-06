@@ -7,7 +7,7 @@ public class WritingBlock {
         String weekend = """
                 Friday\
                 ,
-                Saturday\
+                "Saturday"\
                 ,
                 Sunday
                 """;
