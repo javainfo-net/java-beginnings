@@ -12,6 +12,7 @@ public class WritingFormatted {
 
         String message = String.format("%, .2f",x);
 
+        //dostępna metoda od Javy 15
         String messageToPrint = "Zakup kosztował: %s euro.".formatted(message);
 
         System.out.println(messageToPrint);
