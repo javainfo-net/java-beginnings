@@ -1,6 +1,6 @@
 package net.javainfo.basics;
 
-import java.awt.desktop.PrintFilesEvent;
+
 import java.util.Scanner;
 
 // Przykład użycia pętli warunkowych
