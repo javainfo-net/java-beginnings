@@ -18,7 +18,7 @@ public class IfStatement {
             System.out.printf("Masz %d lat - %s",age,"nie jesteś pełnoletni/a.");
         }
         else if (age == 18){
-            System.out.println("Właśnie osiągnąłeś/aś pełnoletniość.");
+            System.out.println("Właśnie osiągnąłeś/aś pełnoletność.");
         }
         else{
             System.out.printf("Jesteś pełnoletni/a już od %d lat", age - 18);
